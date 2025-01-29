@@ -5,6 +5,8 @@ quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réalise
 
 *En utilisant Git, le professionnel de la data ou du développement web va pouvoir identifier rapidement les changements effectués et revenir, si besoin, à une ancienne version.*
 
+*La liste des services que je connais est Github, Gitlab, Gitcracken*
+
 
 
 
